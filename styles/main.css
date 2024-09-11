@@ -7,7 +7,7 @@ main {
     padding-top: 120px;
     max-width: 1040px;
     margin-inline: auto;
-    #header {
+    #inner-intro {
       max-width: 680px;
       margin-inline: auto;
       #avatar {
